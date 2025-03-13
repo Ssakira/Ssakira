@@ -1,14 +1,18 @@
 # 👋 Hi, I'm Sakira  
 🎓 Tech Student at Tribhuvan University | 💻 Software Developer  
 
-## 🚀 About Me  
-- 🔭 Im Currently working on: **E-commerce Websites** to stay consistent  
-- 🌱 Learning: **Spring Boot, React.js, JWT Authentication**  
-- 💡 Interested in: **Web Development, AI **  
-- ⚡ Fun fact: **I can debug better than I can cook!**
+---
 
-  
+## 🚀 About Me  
+🔭 Currently working on: **E-commerce Website** to stay consistent  
+🌱 Learning: **Spring Boot, React.js, JWT Authentication**  
+💡 Interested in: **Web Development & AI**  
+⚡ Fun fact: **I can debug better than I can cook!**  
+
+---
+
 ## 🛠️ Tech Stack  
+
 ### 💻 Programming & Frameworks  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
@@ -26,9 +30,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
+---
+
 ## 📊 GitHub Stats  
+
 ![Sakira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakira7&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakira7&layout=compact&theme=radical)  
+
+---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/sakira-maharjan-07801828a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sakira-maharjan-07801828a/))  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakira7)  
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!** 🚀  
 
