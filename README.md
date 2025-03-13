@@ -34,9 +34,9 @@
 
 ## 📊 GitHub Stats  
 
-![Sakira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakira7&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakira7&layout=compact&theme=radical)  
-
+![Sakira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ssakira&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssakira&layout=compact&theme=radical)
+ 
 ---
 
 ## 🔗 Connect with Me  
