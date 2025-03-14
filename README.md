@@ -1,3 +1,5 @@
+![Girl Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 # 👋 Hi, I'm Sakira  
 🎓 Tech Student at Tribhuvan University | 💻 Software Developer  
 
